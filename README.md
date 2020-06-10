@@ -7,4 +7,4 @@
 | George Santos            | RM 334858     | `8IA` |
 ### Dúvidas
 
-Crie uma [Issue](https://github.com/michelpf/fiap-ml-visao-computacional-capstone-alternative/issues/new) com as perguntas para que as dúvidas sejam compartilhados com todos os alunos. Questionamentos particulares devem ser encaminhados pelo e-mail do professor.
+Crie uma [Issue](https://github.com/flavioldias2/analise_imagens_medicas/issues) com as perguntas para que as dúvidas sejam documentadas e respondidas pelos integrantes do grupo.
